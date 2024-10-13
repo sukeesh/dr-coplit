@@ -1,0 +1,5 @@
+hackenv/
+.DS_Store
+dump.rdb
+.idea/
+__pycache__/
